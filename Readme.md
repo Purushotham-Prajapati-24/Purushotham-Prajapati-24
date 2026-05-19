@@ -58,6 +58,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushotham-Prajapati-24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/Purushotham-Prajapati-24">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Purushotham-Prajapati-24&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+  </a>
+</p>
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Tech Quotes" />
 </div>
