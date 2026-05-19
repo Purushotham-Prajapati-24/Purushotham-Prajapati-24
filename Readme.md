@@ -8,6 +8,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=Purushotham-Prajapati-24&label=Profile%20views&color=5689f5&style=for-the-badge" alt="Purushotham-Prajapati-24" /> 
 
+<br/><br/>
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Purushotham-Prajapati-24&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 - 🔭 I’m currently working on **MERN Stack & Agentic AI workflows** at **ByteCounsel** and **STIHub**
@@ -44,19 +48,16 @@
 </div>
 
 ## 📈 Stats
+
 <p align="center">
-  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Purushotham-Prajapati-24&theme=aura" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Purushotham-Prajapati-24&theme=aura" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Purushotham-Prajapati-24&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Purushotham-Prajapati-24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushotham-Prajapati-24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <div align="center">
-
-   <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Purushotham-Prajapati-24&theme=aura" />
-
-</br>
-</br>
-
-   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Tech Quotes" />
 </div>
