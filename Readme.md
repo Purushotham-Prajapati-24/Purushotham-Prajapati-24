@@ -29,26 +29,19 @@
    
 
 ## 👨‍💻 Tools & Platforms
-<p align="center"> 
 
-  ![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript)
-  ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python)
-  ![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk)
-  ![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c)
-  ![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react)
-  ![Next.js](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js)
-  ![Express](https://img.shields.io/badge/express-000?style=for-the-badge&logo=express&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/tailwind_css-000?style=for-the-badge&logo=tailwindcss)
-  ![MongoDB](https://img.shields.io/badge/mongodb-000?style=for-the-badge&logo=mongodb)
-  ![PostgreSQL](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql)
-  ![Redis](https://img.shields.io/badge/redis-000?style=for-the-badge&logo=redis)
-  ![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
-  ![Vercel](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
-  ![Linux](https://img.shields.io/badge/linux-000?style=for-the-badge&logo=linux)
+<div align="center">
 
-</p>
+### 🌐 Languages & Frontend
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,py,java,c,react,nextjs,tailwind" alt="Frontend & Languages" /></a>
+
+### ⚙️ Backend & Databases
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis" alt="Backend & Databases" /></a>
+
+### 🛠️ DevOps & Platforms
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,vercel,linux" alt="DevOps & Platforms" /></a>
+
+</div>
 
 ## 📈 Stats
 <p align="center">
