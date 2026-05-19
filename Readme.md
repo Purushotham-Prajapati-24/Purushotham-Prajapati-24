@@ -48,22 +48,19 @@
 </div>
 
 ## 📈 Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Purushotham-Prajapati-24&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Purushotham-Prajapati-24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushotham-Prajapati-24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Purushotham-Prajapati-24">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Purushotham-Prajapati-24&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="100%" />
-  </a>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Purushotham-Prajapati-24&theme=aura" />
+  &nbsp;&nbsp;
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Purushotham-Prajapati-24&theme=aura" />
 </p>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Tech Quotes" />
+
+   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Purushotham-Prajapati-24&theme=aura" />
+
+</br>
+</br>
+
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Tech Quotes" />
+
 </div>
